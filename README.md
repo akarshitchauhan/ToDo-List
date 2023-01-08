@@ -14,7 +14,9 @@ any code editor and run the following command in the terminal.
 ```bash
   npm start
 ```
+## Screenshots
 
+![App Screenshot](https://github.com/akarshitchauhan/ToDo-List/blob/main/Screenshots/Screenshot%202023-01-08%20132739.jpg?raw=true)
 
 ## Authors
 
