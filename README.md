@@ -4,7 +4,7 @@
 Hey people! In this React JS project I created an To-Do List web 
 application to make a to do list. This application allows a user
 to make new and delete old list option.
-
+This program is good for ReactJs beginners.
 
 ## Deployment
 
